@@ -1,0 +1,6 @@
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\ProjetosClientes\obj\Debug\net7.0\ProjetosClientes.csproj.AssemblyReference.cache
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\ProjetosClientes\obj\Debug\net7.0\ProjetosClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\ProjetosClientes\obj\Debug\net7.0\ProjetosClientes.AssemblyInfoInputs.cache
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\ProjetosClientes\obj\Debug\net7.0\ProjetosClientes.AssemblyInfo.cs
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\ProjetosClientes\obj\Debug\net7.0\ProjetosClientes.csproj.CoreCompileInputs.cache
+C:\Users\ARNELBA\Desktop\SENAI\Codificação Back End\ProjetosClientes\obj\Debug\net7.0\ProjetosClientes.sourcelink.json
